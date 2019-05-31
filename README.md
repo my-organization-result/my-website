@@ -1,6 +1,4 @@
 # my-website
 Demo
 
-update on update-readme branch.
-
-Updated Locally
+writing something on mater before rebase
