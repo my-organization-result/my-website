@@ -5,6 +5,8 @@ writing something on mater before rebase....
 
 For learning tags in Git
 
+## Adding getting started section to readme
+
 
 <<<<<<< HEAD
 Local Repository
